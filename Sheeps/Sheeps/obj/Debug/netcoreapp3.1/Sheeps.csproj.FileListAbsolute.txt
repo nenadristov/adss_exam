@@ -1,0 +1,5 @@
+C:\Users\student.UACS\Desktop\adss nenad\Sheeps\Sheeps\obj\Debug\netcoreapp3.1\Sheeps.csproj.AssemblyReference.cache
+C:\Users\student.UACS\Desktop\adss nenad\Sheeps\Sheeps\obj\Debug\netcoreapp3.1\Sheeps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.UACS\Desktop\adss nenad\Sheeps\Sheeps\obj\Debug\netcoreapp3.1\Sheeps.AssemblyInfoInputs.cache
+C:\Users\student.UACS\Desktop\adss nenad\Sheeps\Sheeps\obj\Debug\netcoreapp3.1\Sheeps.AssemblyInfo.cs
+C:\Users\student.UACS\Desktop\adss nenad\Sheeps\Sheeps\obj\Debug\netcoreapp3.1\Sheeps.csproj.CoreCompileInputs.cache

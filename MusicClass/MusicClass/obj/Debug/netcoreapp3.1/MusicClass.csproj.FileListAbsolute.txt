@@ -1,0 +1,14 @@
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\obj\Debug\netcoreapp3.1\MusicClass.csproj.AssemblyReference.cache
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\obj\Debug\netcoreapp3.1\MusicClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\obj\Debug\netcoreapp3.1\MusicClass.AssemblyInfoInputs.cache
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\obj\Debug\netcoreapp3.1\MusicClass.AssemblyInfo.cs
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\obj\Debug\netcoreapp3.1\MusicClass.csproj.CoreCompileInputs.cache
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\bin\Debug\netcoreapp3.1\MusicClass.exe
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\bin\Debug\netcoreapp3.1\MusicClass.deps.json
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\bin\Debug\netcoreapp3.1\MusicClass.runtimeconfig.json
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\bin\Debug\netcoreapp3.1\MusicClass.runtimeconfig.dev.json
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\bin\Debug\netcoreapp3.1\MusicClass.dll
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\bin\Debug\netcoreapp3.1\MusicClass.pdb
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\obj\Debug\netcoreapp3.1\MusicClass.dll
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\obj\Debug\netcoreapp3.1\MusicClass.pdb
+C:\Users\student.UACS\Desktop\adss nenad\MusicClass\MusicClass\obj\Debug\netcoreapp3.1\MusicClass.genruntimeconfig.cache
